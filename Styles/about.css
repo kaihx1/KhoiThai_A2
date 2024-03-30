@@ -1,0 +1,84 @@
+/* skill logos for about me */
+.html5-logo {
+    margin: 0.5em;
+    height: 12dvh;
+    width: auto;
+    box-shadow: none;
+    background-color: var(--cornsilk);
+    object-fit: contain;
+}
+
+.myHistory {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+    padding: 1em;
+    background-color: #e0bc8c;
+    border-radius: 1em;
+    filter: drop-shadow(0.5em 0.5em 5px var(--earth-yellow));
+}
+
+.myHistory > p {
+    font-size: x-large;
+    color: var(--pakistan-green);
+}
+
+.about-me {  /* about me picture */
+    max-width: 10dvh;
+    height: auto;
+    margin: 1em;
+    border-radius: 1em;
+}
+
+.myStudies {
+    font-size: x-large;
+    color: var(--pakistan-green);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+    padding: 1em;
+    background-color: #e0bc8c;
+    border-radius: 1em;
+    filter: drop-shadow(0.5em 0.5em 5px var(--earth-yellow));
+}
+
+
+.myHobbies {
+    font-size: x-large;
+    color: var(--pakistan-green);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+    padding: 1em;
+    background-color: #e0bc8c;
+    border-radius: 1em;
+    filter: drop-shadow(0.5em 0.5em 5px var(--earth-yellow));
+}
+
+.VASicon, .catPic {
+    border-radius: 0.5em;
+}
+
+/* Desktop sizing for catpic*/
+.catPic {
+    max-width: 20dvh;
+    height: auto;
+}
+
+.VASicon {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+    max-width: 10dvh;
+    height: auto;
+}

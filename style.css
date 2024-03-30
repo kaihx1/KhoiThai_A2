@@ -49,7 +49,8 @@ header {
 
     /*Logo positioning and click animation*/
     .kai-logo {
-        left: 1em;
+        margin-top: 0.5em;
+        left: em;
         height: 20vh;
         position: sticky;
         z-index: 2;
@@ -68,6 +69,7 @@ header {
 }
 
 nav {
+    margin-top: 0.5em;
     margin-right: 2vh;
     width: 40vh;
     text-align: right;
@@ -175,21 +177,8 @@ main {
 
 }
 
-.about-me {  /* about me picture */
-    max-width: 10dvh;
-    height: auto;
-    box-shadow: 6px 5px var(--dark-green);
-}
 
-/* skill logos for about me */
-.html5-logo {
-    height: 12dvh;
-    width: auto;
-    box-shadow: none;
-    background-color: var(--cornsilk);
-    object-fit: contain;
-}
-
+/*Homepage cat image resizing and shadow*/
 main > img {
     height: 20dvh;
     width: 60dvw;
@@ -198,6 +187,8 @@ main > img {
     box-shadow: 8px 8px var(--dark-green);
     object-fit: cover;
 }
+
+
 
 /* Resume logo styling */
 .resume {
@@ -233,4 +224,9 @@ main > p {
     margin: 1em;
 }
 
+/* cat picture border in homepage
+NOTE: this is used for other pictures eg. blog02 */
 
+.me-picture {
+    border-radius: 0.5em;
+}
