@@ -72,9 +72,20 @@ nav {
     text-decoration: none;
     font-size: 1.3rem;
     margin: 1px;
-
 }
 
+.contact-link {
+    color: var(--dark-green);
+}
+
+p {
+    color: var(--pakistan-green);
+}
+
+h1 {
+    color: var(--dark-green);
+    font-size: 64px;
+}
 footer {
     display: flex;
     flex-direction: column;
