@@ -6,7 +6,13 @@
     <title>Khoi Thai's Page</title>
     <link rel="stylesheet" href="style.css">
 
-    <!--animatecss link source-->
+    <!-- Google Fonts Dongle -->
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dongle&display=swap" rel="stylesheet">
+
+    <!-- Animate.css link source -->
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
@@ -25,7 +31,7 @@
     <!-- Insert "Kai" logo and animate -->
     <section>
         <figure>
-            <a href="index.html" class="logo">
+            <a href="index.html" class="kai-logo">
                 <img src="src/assets/Kai logo updated.png" alt="Kai Logo" class="kai-logo" /></a>
         </figure>
     </section>
@@ -33,21 +39,53 @@
     <!--Nav button goes here, aligned to the right-->
 
      <nav>
-       <a href="/index.html">Home</a>
-       <a href="/about.html">About</a>
-       <a href="/projects.html">Projects</a>
-       <a href="/blog.html">Blog</a>
-       <a href="/contact.html">Contact</a>
+       <a href="index.html" class="nav-link">Home</a>
+       <a href="about.html" class="nav-link">About</a>
+       <a href="projects.html" class="nav-link">Projects</a>
+       <a href="blog.html" class="nav-link">Blog</a>
+       <a href="contact.html" class="nav-link">Contact</a>
      </nav>
     </header>
 
     <main>
 
-     <h1>About me!</h1>
+        <h1>About me</h1>
+
+        <img src="src/assets/Kai cool.JPG"  alt="My photo" class="about-me"/>
+
+        <p>
+            <h2>
+                Hey!
+            </h2>
+            
+        </p>
+
+        <p>
+            Hey! I'm Khoi, preferrably Kai :)
+            A soon to be software developer in Melbourne, Australia.
+        </p>
+
+        <img src="src/assets/Kai cool.JPG"  alt="My photo" class="about-me"/>
+
+        <p>
+            Hey! I'm Khoi, preferrably Kai :)
+            A soon to be software developer in Melbourne, Australia.
+        </p>
+
+        <a href="src/assets/resume.jpg" class="resume">Resume</a>
+
+        <h2>Skills</h2>
+<!-- Created class for skills images because they were clashing, "html5-logo" will be used as the class.-->
+        <img src="src/assets/HTML5 logo.png" class="html5-logo" alt="logo-html5" />
+        <img src="src/assets/Adobe icon.png" class="html5-logo" alt="logo-adobe" />
+        <img src="src/assets/Python logo.png" class="html5-logo" alt="logo-python" />
+        <img src="src/assets/CSS logo.png" class="html5-logo" alt="css-icon" />
+
+
     </main>
 
     <footer>
-        footer goes here
+        <h6> Khoi Thai &copy; 2024</h6>
     </footer>
 
 </body>

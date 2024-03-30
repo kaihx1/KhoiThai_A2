@@ -9,8 +9,6 @@
     --dark-green: #132a13ff;
 
     font-family: "Dongle", sans-serif;
-    font-weight: 400;
-    font-style: normal;
 }
 
 * {
@@ -55,51 +53,107 @@ header {
         height: 20vh;
         position: sticky;
         z-index: 2;
-        animation: pulse;
-        animation-duration: 2s;
+
+        animation: headShake;
+        animation-duration: 3s;
+        animation-iteration-count: 1;
+        animation-delay: 1s;
     }
+}
+
+/*Kai logo animations*/
+.kai-logo:hover {
+    animation: heartBeat;
+    animation-duration: 1s;
 }
 
 nav {
     margin-right: 2vh;
     width: 40vh;
     text-align: right;
-
 }
+
 
 .nav-link {
     color: var(--dark-green);
     text-decoration: none;
     font-size: 1.3rem;
     margin: 1px;
+
 }
 
+/* Create hover effect for nav bar */
+.nav-link:hover {
+    background-color: var(--tigers-eye);
+    padding: 0.25em;
+    border-radius: 0.5em;
+}
+
+
+/*contact me! link on homepage*/
 .contact-link {
     color: var(--dark-green);
+    font-size: x-large;
+    background-color: #d89b55;
+    padding: 0.5em;
+    border-radius: 0.4em;
+    text-decoration: none;
 }
 
-p {
-    color: var(--pakistan-green);
+.contact-link:hover {
+    background-color: #d6b187;
+    padding: 0.6em;
+    border-radius: 0.5em;
+    animation: tada;
+    animation-duration: 2s;
 }
+
+/*mail icon on contact page*/
+
+.mail-icon {
+    width: 100px;
+    height: 100px;
+    background-color: var(--cornsilk);
+    box-shadow: none;
+    object-fit: contain;
+
+}
+
 
 h1 {
     color: var(--dark-green);
     font-size: 64px;
+    animation: heartBeat;
+    animation-duration: 2s;
 }
+
+h2 {
+    color: var(--dark-green);
+    font-size: 48px;
+    margin: 0;
+}
+
 footer {
     display: flex;
     flex-direction: column;
-    background-color: var(--earth-yellow);
-    height: 7dvh;
-    width: 100%;
     justify-content: center;
     align-items: center;
+
+    background-color: var(--earth-yellow);
+    height: 6dvh;
+    width: 100%;
+
     position: sticky;
 }
 
+h6 {
+    font-size: medium;
+    color: var(--pakistan-green);
+}
+
 main {
-    margin-top: 10vh;
-    min-height: 74dvh;
+    margin-top: 3vh;
+    min-height: 82dvh;
     width: 100%;
     text-align: center;
 
@@ -109,8 +163,31 @@ main {
     align-items: center;
 }
 
-main > * {
-    margin: 1em;
+
+
+
+
+/* Image scaling according to screen sizes */
+.me-picture {   /* homepage picture */
+    max-width: 17dvh;
+    height: auto;
+    box-shadow: 6px 5px var(--dark-green);
+
+}
+
+.about-me {  /* about me picture */
+    max-width: 10dvh;
+    height: auto;
+    box-shadow: 6px 5px var(--dark-green);
+}
+
+/* skill logos for about me */
+.html5-logo {
+    height: 12dvh;
+    width: auto;
+    box-shadow: none;
+    background-color: var(--cornsilk);
+    object-fit: contain;
 }
 
 main > img {
@@ -122,6 +199,29 @@ main > img {
     object-fit: cover;
 }
 
+/* Resume logo styling */
+.resume {
+    font-size: xx-large;
+    color: var(--pakistan-green);
+    text-decoration: none;
+
+    background-color: var(--cornsilk);
+    padding: 0.5em;
+    border-radius: 0.5em;
+
+    outline-color: var(--earth-yellow);
+    outline-style: solid;
+    outline-width: 2px;
+
+}
+
+.resume:hover {
+    color: var(--dark-green);
+    background-color: #d89b55;
+    animation: pulse;
+    animation-duration: 2s;
+}
+
 
 main > a {
     margin: 0.5em;
@@ -129,6 +229,8 @@ main > a {
 
 main > p {
     font-size: x-large;
+    color: var(--pakistan-green);
+    margin: 1em;
 }
 
 
