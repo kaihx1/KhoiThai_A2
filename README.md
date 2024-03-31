@@ -185,4 +185,4 @@ Those on the table looking for fast-workers at efficient level, I would humbly l
 
 - Contact
 
-<img src="docs/Deployed/Desk dep contact.png">
+<img src="docs/Deployed/Desktop dep contact.png">
