@@ -53,3 +53,9 @@ This sitemap was made in prior to give me a general idea of where I was heading 
    <img src="docs/Sitemap/Sitemap.png" />
 </p>
 
+</br>
+
+## Design
+
+Choosing a colour palette was relatively easy, and wasn't bothered much throughout the process. I wanted a simple, clear, earthy naturaly tone colour scheme that
+
