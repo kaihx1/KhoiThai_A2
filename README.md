@@ -144,7 +144,7 @@ Those on the table looking for fast-workers at efficient level, I would humbly l
 <img src="docs/Deployed/Mob dep blogs 1.png">
 <img src="docs/Deployed/Mob dep blogs 2.png">
 <img src="docs/Deployed/Mob dep blogs 3.png">
-<img src="docs/Deployed/Mobe dep blogs 4.png">
+<img src="docs/Deployed/Mob dep blogs 4.png">
 <img src="docs/Deployed/Mob dep blogs 5.png">
 <img src="docs/Deployed/Mob dep blogs 6.png">
 <img src="docs/Deployed/Mob dep blogs 7.png">
