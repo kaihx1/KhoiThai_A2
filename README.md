@@ -129,11 +129,18 @@ Those on the table looking for fast-workers at efficient level, I would humbly l
 
 ## Screenshots of website
 
-- Mobile
+</br>
+
+### Mobile
+
+- About Page
 
 <img src="docs/Deployed/Mobile dep abt 1.png">
 <img src="docs/Deployed/Mobile dep abt 2.png">
 <img src="docs/Deployed/Mobile dep abt 3.png">
+
+- Blogs
+
 <img src="docs/Deployed/Mob dep blogs 1.png">
 <img src="docs/Deployed/Mob dep blogs 2.png">
 <img src="docs/Deployed/Mob dep blogs 3.png">
@@ -143,12 +150,40 @@ Those on the table looking for fast-workers at efficient level, I would humbly l
 <img src="docs/Deployed/Mob dep blogs 7.png">
 <img src="docs/Deployed/Mob dep blogs 8.png">
 <img src="docs/Deployed/Mob dep blogs 9.png">
-<img src="docs/Deployed/Mobile dep contact.png">
+
+- Projects
+
 <img src="docs/Deployed/Mobile dep proj 1.png">
 <img src="docs/Deployed/Mobile dep proj 2.png">
 
+- Contact
 
+<img src="docs/Deployed/Mobile dep contact.png">
 
+</br>
 
+### Desktop
 
-[def]: ocs/Deployed/Mobile dep blogs 9.pn
+- About Page
+
+<img src="docs/Deployed/Desktop dep abt 1.png">
+<img src="docs/Deployed/Desktop dep abt 2.png">
+<img src="docs/Deployed/Desktop dep abt 3.png">
+
+- Projects
+
+<img src="docs/Deployed/Desk dep project.png">
+
+- Blogs
+
+<img src="docs/Deployed/Desk dep blog 1.png">
+<img src="docs/Deployed/Desk dep blog 2.png">
+<img src="docs/Deployed/Desk dep blog 3.png">
+<img src="docs/Deployed/Desk dep blog 4.png">
+<img src="docs/Deployed/Desk dep blog 5.png">
+<img src="docs/Deployed/Desk dep blog 6.png">
+<img src="docs/Deployed/Desk dep blog 7.png">
+
+- Contact
+
+<img src="docs/Deployed/Desk dep contact.png">
