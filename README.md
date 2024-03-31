@@ -57,5 +57,74 @@ This sitemap was made in prior to give me a general idea of where I was heading 
 
 ## Design
 
-Choosing a colour palette was relatively easy, and wasn't bothered much throughout the process. I wanted a simple, clear, earthy naturaly tone colour scheme that
+Choosing a colour palette was relatively easy, and wasn't bothered much throughout the process. I wanted a simple, clear, earthy naturaly tone colour scheme that gave the audience an ease of access.
 
+### Font
+
+Using Google fonts I integrated it into CSS.
+This font design provides a simplistic look, yet 'fun' and engaging.
+
+  <p float="center">
+    <img src="src/assets/Google Fonts.png" width="1920" />
+</p>
+
+
+
+
+### Colour Palette
+
+Using Colors.co to, browsing and choosing based off my 'Ah that's the one' feeling.
+Ideally prioritising the modern look, but desiring for an engaging audience effect.
+
+<p float="center">
+    <img src="src/assets/colour palette.png" width="1920" />
+</p>
+
+</br>
+
+## Target Audience
+
+At the current stage and circumstances, my portfolio was primarily for hiring managers and recruiters, although due to the lack of time, I had not had enough time to properly publish its final touches and finishing up bits and pieces accustomed for those who are seeking for entry-level web developers. As this was done in a day.
+
+Those on the table looking for fast-workers at efficient level, I would humbly like to say I quite suit the criteria XD.
+
+</br>
+
+## Tech Stack
+
+- GitHub: Version Control.
+- [https://app.diagrams.net/](diagrams.net): An online app used to design and create Flow Charts, used for Sitemap. 
+- VS Code: Coding IDE
+- HTML: Containing the elements and content of the pages.
+- CSS: Styles the content displayed.
+- Animate.css: An animation integration tool used to create animated effects using "animate-style", used through out the majority of the design process to enhance visual effects.
+
+</br>
+
+## Screenshots
+
+### Homepage (Landing Page)
+
+- Mobile Wireframe 
+  <p float="center">
+    <img src="docs/Wireframes/Mobile wf 1.png" width="1920" />
+</p>
+
+- Mobile Deployed
+<p float="center">
+    <img src="docs/Deployed/Mobile dep 1.png" width="1920" />
+</p>
+
+- Deskstop Wireframe
+  <p float="center">
+    <img src="docs/Wireframes/Desktop wf 1.png" width="1920" />
+</p>
+
+- Desktop deployed
+<p float="center">
+    <img src="docs/Deployed/Desktop dep 1.png" width="1920" />
+</p>
+
+</br>
+
+## About
