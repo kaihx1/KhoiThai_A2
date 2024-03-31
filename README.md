@@ -172,8 +172,7 @@ Those on the table looking for fast-workers at efficient level, I would humbly l
 
 - Projects
 
-<img src="docs/Deployed/Desk dep project.png">
-
+<img src="docs/Deployed/Desk dep proj.png">
 - Blogs
 
 <img src="docs/Deployed/Desk dep blog 1.png">
