@@ -127,4 +127,28 @@ Those on the table looking for fast-workers at efficient level, I would humbly l
 
 </br>
 
-## About
+## Screenshots of website
+
+- Mobile
+
+<img src="docs/Deployed/Mobile dep abt 1.png">
+<img src="docs/Deployed/Mobile dep abt 2.png">
+<img src="docs/Deployed/Mobile dep abt 3.png">
+<img src="docs/Deployed/Mob dep blogs 1.png">
+<img src="docs/Deployed/Mob dep blogs 2.png">
+<img src="docs/Deployed/Mob dep blogs 3.png">
+<img src="docs/Deployed/Mobe dep blogs 4.png">
+<img src="docs/Deployed/Mob dep blogs 5.png">
+<img src="docs/Deployed/Mob dep blogs 6.png">
+<img src="docs/Deployed/Mob dep blogs 7.png">
+<img src="docs/Deployed/Mob dep blogs 8.png">
+<img src="docs/Deployed/Mob dep blogs 9.png">
+<img src="docs/Deployed/Mobile dep contact.png">
+<img src="docs/Deployed/Mobile dep proj 1.png">
+<img src="docs/Deployed/Mobile dep proj 2.png">
+
+
+
+
+
+[def]: ocs/Deployed/Mobile dep blogs 9.pn
