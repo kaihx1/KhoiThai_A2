@@ -15,7 +15,7 @@ I'm Khoi, you can call me Kai.
 
 - Website Portfolio - [https://khoithai.netlify.app/](https://khoithai.netlify.app/)
 - GitHub - [https://github.com/kaihx1/KhoiThai_T1A2](https://github.com/kaihx1/KhoiThai_T1A2)
-- LinkedIn - [https://www.linkedin.com/in/kaihoang/](https://www.linkedin.com/in/kaihoang/)
+
 
 </br>
 
@@ -42,7 +42,7 @@ Functionalities and features are as shown below:
 - Color scheme: A professional and visually eye-satisfying color scheme as a respond for user ease and warm natural mood.
 - Image: Using images to showcase my persona and a bit about myself, interacting with users and engagements.
 - Fonts: Integrating Google Fonts to amplify the users experience, the font choice appeals to the theme of the site.
-
+- Animations: Using Animate.css to engage and catch the users attention, by using animations that appeal upon hover or clicks etc.
 </br>
 
 ## Sitemap
