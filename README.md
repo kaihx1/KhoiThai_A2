@@ -106,24 +106,20 @@ Those on the table looking for fast-workers at efficient level, I would humbly l
 ### Homepage (Landing Page)
 
 - Mobile Wireframe 
-  <p float="center">
-    <img src="docs/Wireframes/Mobile wf 1.png" width="1920" />
-</p>
 
-- Mobile Deployed
-<p float="center">
-    <img src="docs/Deployed/Mobile dep 1.png" width="1920" />
-</p>
+ <img src="docs/Wireframes/Mobile wf 1.png"/> <img src="docs/Wireframes/Mobile wf 2.png"/>
+ <img src="docs/Wireframes/Mobile wf 3.png"/> <img src="docs/Wireframes/Mobile wf 4.png"/>
+ <img src="docs/Wireframes/Mobile wf 5.png"/> <img src="docs/Wireframes/Mobile wf 6.png"/>
+
+
+
 
 - Deskstop Wireframe
-  <p float="center">
-    <img src="docs/Wireframes/Desktop wf 1.png" width="1920" />
-</p>
 
-- Desktop deployed
-<p float="center">
-    <img src="docs/Deployed/Desktop dep 1.png" width="1920" />
-</p>
+ <img src="docs/Wireframes/Desktop wf 1.png"/> <img src="docs/Wireframes/Desktop wf 2.png"/>
+ <img src="docs/Wireframes/Desktop wf 3.png"/> <img src="docs/Wireframes/Desktop wf 4.png"/>
+ <img src="docs/Wireframes/Desktop wf 5.png"/> <img src="docs/Wireframes/Desktop wf 6.png"/>
+
 
 </br>
 
