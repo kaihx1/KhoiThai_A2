@@ -50,6 +50,6 @@ Functionalities and features are as shown below:
 This sitemap was made in prior to give me a general idea of where I was heading in site navigations. Basing my Wireframes and Design choices off of these gives me a better general idea.
 
 <p float="center">
-   <img src=>/home/kaihx1/T1A2/website/docs/Sitemap />
+   <img src=>/docs/Sitemap/Sitemap.png />
 </p>
 
