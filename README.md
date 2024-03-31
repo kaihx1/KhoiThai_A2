@@ -13,9 +13,12 @@ I'm Khoi, you can call me Kai.
 
 ## Links
 
+- Video Presentation Upload - [https://youtu.be/TWHxe3KTJHw](https://youtu.be/TWHxe3KTJHw)
 - Website Portfolio - [https://khoithai.netlify.app/](https://khoithai.netlify.app/)
 - GitHub - [https://github.com/kaihx1/KhoiThai_T1A2](https://github.com/kaihx1/KhoiThai_T1A2)
 
+*Important Note* - There was a problem in my files and I was not able to create a folder for my .html documents trying to move them into a folder "html" inside /src
+I hope this isnt too big of a deal. Please reach out to me if there are issues/solutions, I apologise for any inconveniences this may cause.
 
 </br>
 
